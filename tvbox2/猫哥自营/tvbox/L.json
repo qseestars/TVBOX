@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/tvbox/api/api.json",
+      "name": "🚀api"
+    }
+  ]
+}
