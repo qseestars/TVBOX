@@ -1,0 +1,76 @@
+{
+  "urls": [
+     {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/肥猫/api.json",
+      "name": "🚀1肥猫线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/fty/fty.json",
+      "name": "🚀2饭太硬线路"
+    },		
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/zhenxin/zhenxin.json",
+      "name": "🚀3真心线路"
+    },	
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/pg/jsm.json",
+      "name": "🚀4PG线路"
+    }, 
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/xiaosa/xiaosa.json",
+      "name": "🚀5潇洒线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/duanju/duanju.json",
+      "name": "🚀6短剧线路"
+    }, 		 
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/OK/OK.json",
+      "name": "🚀7OK线路"
+    },		
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/wangerxiao/wangerxiao.json",
+      "name": "🚀8放牛线路"
+    },
+     {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/miaoyingshi/miaoyingshi.json",
+      "name": "🚀9D喵影视线路"
+    },	
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/nanfeng/nanfeng.json",
+      "name": "🚀10南风线路"
+    }, 	
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/moyu/moyu.json",
+      "name": "🚀11摸鱼线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/xiangyaqing/xiangyaqing.json",
+      "name": "🚀12香雅情线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/svip/svip.json",
+      "name": "🚀13拾光线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/wangpan/wangpan.json",
+      "name": "🚀14网盘线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/欧歌/api.json",
+      "name": "🚀15讴歌线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/星辰/api.json",
+      "name": "🚀16星辰线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/小虎斑/api.json",
+      "name": "🚀17小虎斑线路"
+    },
+    {
+      "url": "https://gitee.com/qseestarsqmw/tvboxx/raw/master/tvbox/小米/api.json",
+      "name": "🚀18小米线路"
+    }	
+  ]
+}
